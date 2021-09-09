@@ -1,3 +1,5 @@
+# Grupo: Letícia, Mario, Guilherme, Larissa, Maria Emilia
+
 # carrega as bibliotecas
 pacman::p_load(car, caret, corrplot, data.table, dplyr, forcats, funModeling, mltools, randomForest, tidyverse)
 
