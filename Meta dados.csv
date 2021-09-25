@@ -1,0 +1,18 @@
+Atributo;Informa‡Æo
+ID_DISCENTE;C¢digo de identifica‡Æo do discente
+ANO_NASCIMENTO;Ano de nascimento do discente
+PERIODO_INGRESSO;Periodo de ingresso do discente
+PERIODO_LETIVO;Periodo de letivo de ingresso
+CAMPUS;Identidica‡Æo do Campus
+CD_INEP;C¢digo de identifica‡Æo do Curso
+CURSO;Nome do Curso
+CARGA_HORARIA_CURSO;Carga hor ria atribuida ao Curso
+TURNO;Identidica‡Æo do Turno
+MODALIDADE;Identidica‡Æo do Modalidade de ingresso do discente
+COTAS;Acesso ao programa de cotas
+SEXO;Identidica‡Æo do Sexo
+NACIONALIDADE;Identidica‡Æo do Nacionalidade
+CIDADE_NAT;Cidade natal do discente
+UF_NAT;UF natal do discente
+LAT;Latitude de Referˆncia da cidade natal do discente
+LON;Longitude de Referˆncia da cidade natal do discente
